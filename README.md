@@ -4,5 +4,5 @@
 ##  You should know <br>
 <p> -Both HTML and css</p> <br>
 ## Using Tailwind CSS
-<p>-Install Tailwind using npm (node package manager).
-<p> -You'll need node.js installed on your Computer
+<p>-Install Tailwind using npm (node package manager).</p>
+<p> -You'll need node.js installed on your Computer</p>
